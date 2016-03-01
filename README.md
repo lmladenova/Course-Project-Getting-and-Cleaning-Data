@@ -47,8 +47,8 @@ III. Test Dataset Files
 15. Writes the "averagetidy" dataset into a text file.
 
 ## The Tidy Data
-The end product of the "run_analysis.R" script is a tidy data set, which complies with the requirements for tidy data as follows[1,2]:
-<p> 1. Each variable is in a separate column;</p>
+<p/> The end product of the "run_analysis.R" script is a tidy data set, which complies with the requirements for tidy data as follows[1,2]:</p>
+1. Each variable is in a separate column;
 2. Each observation is in a separate row;
 3. All of the columns are named with descriptive names;
 4. Factor variables are presented as labels, not numbers;
@@ -60,5 +60,6 @@ The CodeBook.md file contains the code book for the "averagetidy" dataset, with 
 
 ## References
 [1]Wickham, H. (2014). Tidy Data.*Journal of Statistical Software*,*59*.Available at http://vita.had.co.nz/articles.html
+
 [2]Leek, J.(n/a). Components of tidy data. Coursera leacture notes.
 
