@@ -19,7 +19,7 @@ Finally, the mean value and the standard deviation were estimated from these sig
 
 # Data
 <p> The "averagetidy" dataset consists of 180 observations and 81 variables. For each observation it is provided:</p>
-1. number identifier of the subject performing the activity;</p>
+1. number identifier of the subject performing the activity;
 2. the description of the activity (e.g., walking, sitting);
 3. the average of all window samples for each measurement variable (n = 79) for the subject in the respective activity.
 
