@@ -18,8 +18,8 @@ Next, a Fast Fourier Transform (FFT) was applied to some of these signals produc
 Finally, the mean value and the standard deviation were estimated from these signals for each subject performing each activity in each sample window. The average of these estimates for each subject and each activity were used for the creation of this dataset. 
 
 # Data
-The "averagetidy" dataset consists of 180 observations and 81 variables. For each observation it is provided:
-<p>1. number identifier of the subject performing the activity;</p>
+<p> The "averagetidy" dataset consists of 180 observations and 81 variables. For each observation it is provided:</p>
+1. number identifier of the subject performing the activity;</p>
 2. the description of the activity (e.g., walking, sitting);
 3. the average of all window samples for each measurement variable (n = 79) for the subject in the respective activity.
 
@@ -45,7 +45,7 @@ Axis                |Xaxis, Yaxis, Zaxis
 5. Xaxis, Yaxis, or Zaxis - denote the respective axis the movement was measured on.
 
 ## Detailed Description of Variables
-1. **subject_id** - subject identifier
+<p> 1. **subject_id** - subject identifier </p>
 * Units: Number
 * Min: 1
 * Max: 30
