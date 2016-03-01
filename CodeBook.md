@@ -45,11 +45,11 @@ Axis                |Xaxis, Yaxis, Zaxis
 5. Xaxis, Yaxis, or Zaxis - denote the respective axis the movement was measured on.
 
 ## Detailed Description of Variables
-<p> </p>
-1. **subject_id** - subject identifier
-* Units: Number
-* Min: 1
-* Max: 30
+
+> 1. **subject_id** - subject identifier
+>> * Units: Number
+>> * Min: 1
+>> * Max: 30
 
 2. **activity** - activity identifier
 * Units: Verbal description
