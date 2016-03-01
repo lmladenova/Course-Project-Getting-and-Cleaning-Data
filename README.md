@@ -2,7 +2,7 @@
 ## Overview
 The objective of this course project is to prepare a tidy data that can be used for later analysis. This repository contains (1) the script for tyding the "Human Activity Recognition Using Smartphones Dataset", and (2) the codebook for the tidy dataset.
 
-Thirty participants performed six daily activities (i.e., walking, walking upstairs, walking downstairs, sitting, standing, and laying) while wearing a smartphone (Samsung Galazy S II) on their waist. By using the embedded accelerometer and gyroscope, 3-axial linear acceleration and 3-axial angular velocity were captured, after subsequent transformation of the sensor signal several derivative variables were obtained as well. 
+Thirty participants performed six daily activities (i.e., walking, walking upstairs, walking downstairs, sitting, standing, and laying) while wearing a smartphone (Samsung Galaxy S II) on their waist. By using the embedded accelerometer and gyroscope, 3-axial linear acceleration and 3-axial angular velocity were captured, after subsequent transformation of the sensor signal several derivative variables were obtained as well. 
 
 ## The Raw Data
 The data was obtained from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip. 
@@ -47,7 +47,8 @@ III. Test Dataset Files
 15. Writes the "averagetidy" dataset into a text file.
 
 ## The Tidy Data
-<p/> The end product of the "run_analysis.R" script is a tidy data set, which complies with the requirements for tidy data as follows[1,2]:</p>
+<p> The end product of the "run_analysis.R" script is a tidy data set, which complies with the requirements for tidy data as follows[1,2]:</p>
+
 1. Each variable is in a separate column;
 2. Each observation is in a separate row;
 3. All of the columns are named with descriptive names;
@@ -59,7 +60,7 @@ Note: The tidy dataset is presented in wide format (i.e., each variable is in a 
 The CodeBook.md file contains the code book for the "averagetidy" dataset, with detailed description of the study design and the variables used.
 
 ## References
-[1]Wickham, H. (2014). Tidy Data.*Journal of Statistical Software*,*59*.Available at http://vita.had.co.nz/articles.html
+[1] Wickham, H. (2014). Tidy Data.*Journal of Statistical Software*,*59*. Available at http://vita.had.co.nz/articles.html.
 
-[2]Leek, J.(n/a). Components of tidy data. Coursera leacture notes.
+[2] Leek, J.(n/a). Components of tidy data. Coursera leacture notes.
 
