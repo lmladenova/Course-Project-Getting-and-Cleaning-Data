@@ -62,5 +62,5 @@ The CodeBook.md file contains the code book for the "averagetidy" dataset, with 
 ## References
 [1] Wickham, H. (2014). Tidy Data.*Journal of Statistical Software*,*59*. Available at http://vita.had.co.nz/articles.html.
 
-[2] Leek, J.(n/a). Components of tidy data. Coursera leacture notes.
+[2] Leek, J. (n/a). *Components of tidy data*. Coursera leacture notes.
 
